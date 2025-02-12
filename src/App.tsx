@@ -11,7 +11,7 @@ function App() {
         <div className="container mx-auto px-4 py-3">
           <div className="flex justify-between items-center">
             <a href="#" className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-blue-500 bg-clip-text text-transparent hover:scale-105 transition-transform">
-              Prince.dev
+              princekumar.me
             </a>
             
             {/* Mobile Menu Button */}
@@ -318,7 +318,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="mb-8 md:mb-0">
               <a href="#" className="text-2xl font-bold gradient-text hover:scale-105 transition-transform inline-block">
-                Prince.dev
+                princekumar.me
               </a>
               <p className="text-slate-400 mt-2">Building digital experiences that matter.</p>
             </div>
